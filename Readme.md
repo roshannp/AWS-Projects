@@ -8,5 +8,5 @@ by 40% and enabling faster data extraction for contract analysis in a telecommun
 files reducing manual data processing time by 60% and improving data accessibility.
 
 
-3) Designed and implemented a complete data pipeline on AWS to protect sensitive customer viewing data while still enabling useful business insights. The use case was tailored to a Dish Network–like environment where we needed to analyze regional viewing trends without exposing individual habits.
+3)Designed and implemented a complete data pipeline on AWS to protect sensitive customer viewing data while still enabling useful business insights. The use case was tailored to a Dish Network–like environment where we needed to analyze regional viewing trends without exposing individual habits.
 
